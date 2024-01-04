@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**dhavalklad/dhavalklad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Senior/Lead Software Engineer with over 8 years of experience in software/web application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+- Programming Languages: PHP, SQL, NoSQL, JS, TS, HTML, CSS
+- Frameworks: Laravel, Symfony React, Angular, JQuery
+- DevOps: GIT, GitLab, Docker, Bitbucket, AWS
+- Software Tools: Intellij, Visual Studio, JIRA
+- Willing to adapt: NodeJS, VueJS, Python, Java
+
+
+🌱 I’m currently learning NodeJS, CI/CD, Cypress
+
+
+Dhaval Lad <br/>
+<a href="https://linkedin.com/in/dhaval-lad-81a7b5120">
+  <img align="left" alt="Dhaval Lad - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+
+
+
